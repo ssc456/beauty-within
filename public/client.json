@@ -1,113 +1,112 @@
 {
-  "siteTitle": "The Biz Bud",
+  "siteTitle": "Beauty Within",
   "logoUrl": "/images/logo.png",
   "hero": {
-    "headline": "Your Local Property Maintenance Experts",
-    "subheadline": "Reliable and affordable services including carpentry, flooring, painting, tiling, garden maintenance and more.",
-    "ctaText": "Get a Free Quote",
-    "ctaLink": "#contact",
-    "backgroundPatternName": "",
-    "backgroundImage": ""
-
+    "headline": "Reveal Your Inner Glow",
+    "subheadline": "Expert waxing, reflexology, massage & more—tailored just for you",
+    "ctaText": "Book a Session",
+    "ctaLink": "#contact"
   },
   "about": {
-    "title": "About Us",
-    "description": "At L.M.P Property Services, we take pride in offering a wide range of home improvement and maintenance solutions. Whether you need a single room refresh or a full property renovation, our skilled team is here to help. With free quotes, competitive pricing, and a commitment to quality, we’re your go-to local choice for all property work.",
-    "image": "/images/about.jpg"
+    "title": "About Beauty Within",
+    "description": "At Beauty Within, we believe true beauty comes from balance. Our certified therapists offer a full range of treatments—from gentle waxing and soothing reflexology to luxurious facials and hot stone massage—all in a calm, welcoming environment. Personalized care and expert techniques ensure you leave feeling refreshed, renewed, and completely cared for.",
+    "image": "/images/about-beauty-within.jpg"
   },
   "services": {
-    "title": "Our Services",
+    "title": "Our Treatments",
     "items": [
       {
-        "title": "Carpentry",
-        "description": "Custom woodwork, framing, door installation, skirting boards, and bespoke shelving tailored to your needs.",
-        "iconName": "HammerIcon"
+        "title": "Massage Therapy",
+        "description": "Choose from Swedish, deep tissue, hot stone or aromatherapy massage to relieve tension and promote total relaxation.",
+        "iconName": "HandRaisedIcon"
       },
       {
-        "title": "Tiling",
-        "description": "Wall and floor tiling for kitchens, bathrooms, and living areas using high-quality materials and precise installation.",
-        "iconName": "Squares2X2Icon"
+        "title": "Facials",
+        "description": "Customized skincare treatments using premium products to cleanse, exfoliate, and hydrate for a radiant complexion.",
+        "iconName": "SparklesIcon"
       },
       {
-        "title": "Painting & Decorating",
-        "description": "Interior and exterior painting, feature walls, wallpapering, and decorative finishes to refresh any space.",
-        "iconName": "PaintBrushIcon"
+        "title": "Reflexology",
+        "description": "Pressure-point therapy on the hands and feet to improve energy flow, reduce stress, and support overall wellness.",
+        "iconName": "FingerPrintIcon"
       },
       {
-        "title": "Flat Pack Assembly",
-        "description": "Fast, reliable flat pack furniture assembly for homes and offices—everything from wardrobes to kitchen cabinets.",
-        "iconName": "PuzzlePieceIcon"
+        "title": "Indian Head Massage",
+        "description": "Traditional Ayurvedic techniques to relieve headaches, ease neck tension, and restore mental clarity.",
+        "iconName": "GlobeAsiaAustraliaIcon"
       },
       {
-        "title": "Flooring",
-        "description": "Expert installation of laminate, vinyl, hardwood, and carpet tile flooring with precise measurements and finishes.",
-        "iconName": "Square3Stack3DIcon"
+        "title": "Hot Stone Massage",
+        "description": "Smooth heated stones glide over muscles for deep warmth and tension release in one indulgent experience.",
+        "iconName": "FireIcon"
       },
       {
-        "title": "Fascia & Soffits",
-        "description": "Repair and replacement of fascia boards, soffits, and guttering to improve exterior appearance and longevity.",
-        "iconName": "TruckIcon"
+        "title": "Aromatherapy",
+        "description": "Therapeutic essential-oil blends selected for your needs, combined with gentle massage to uplift body and mind.",
+        "iconName": "BeakerIcon"
       },
       {
-        "title": "Plastering",
-        "description": "Smooth skim finishes, patch repairs, drylining, and full-room re-plastering delivered by experienced plasterers.",
-        "iconName": "RectangleStackIcon"
+        "title": "Manicure & Pedicure",
+        "description": "Nail shaping, cuticle care, massage and polish or gel finish to leave your hands and feet looking flawless.",
+        "iconName": "HandThumbUpIcon"
       },
       {
-        "title": "Garden Maintenance",
-        "description": "General tidy-ups, garden waste removal, fence repairs, and lawn care to keep your outdoor space looking its best.",
-        "iconName": "LeafIcon"
+        "title": "Waxing",
+        "description": "Professional hair removal for brows, lip, chin, legs and more—smooth, long-lasting results with minimal discomfort.",
+        "iconName": "ScissorsIcon"
       }
     ]
   },
   "features": {
-    "title": "Why Choose Us?",
+    "title": "Why Beauty Within?",
     "items": [
       {
         "iconName": "ShieldCheckIcon",
-        "title": "Fully Insured & Qualified",
-        "description": "All work is completed by experienced professionals backed by public liability insurance and verified training."
+        "title": "Certified Professionals",
+        "description": "All treatments delivered by fully qualified, insured therapists with years of experience."
       },
       {
-        "iconName": "CurrencyPoundIcon",
-        "title": "Free, No-Obligation Quotes",
-        "description": "We provide clear, upfront pricing with no hidden fees. You know exactly what to expect before work begins."
+        "iconName": "HeartIcon",
+        "title": "Personalized Care",
+        "description": "Each session is tailored to your unique needs and preferences for maximum benefit."
       },
       {
-        "iconName": "CheckBadgeIcon",
-        "title": "Commitment to Quality",
-        "description": "Our team takes pride in every project—attention to detail, reliable timelines, and a clean finish every time."
+        "iconName": "ClockIcon",
+        "title": "Flexible Scheduling",
+        "description": "Early, late and weekend appointments available to work around your busy life."
+      },
+      {
+        "iconName": "SparklesIcon",
+        "title": "Premium Products",
+        "description": "We use only top-quality, cruelty-free brands chosen for safety and performance."
       }
     ]
   },
   "gallery": {
-    "title": "Our Work Gallery",
+    "title": "Our Sanctuary",
     "images": [
-      "/images/gallery/dog1.jpg",
-      "/images/gallery/dog2.jpg",
-      "/images/gallery/dog3.jpg",
-      "/images/gallery/dog4.jpg",
-      "/images/gallery/dog5.jpg",
-      "/images/gallery/dog6.jpg"
+      "/images/gallery/beauty1.jpg",
+      "/images/gallery/beauty2.jpg",
+      "/images/gallery/beauty3.jpg"
     ]
   },
   "testimonials": {
     "title": "What Our Clients Say",
     "quotes": [
       {
-        "name": "Samantha L.",
-        "quote": "Quick, tidy, and reasonably priced. I’ve used L.M.P for painting and carpentry, and they’ve been excellent every time.",
-        "image": "/images/testimonial1.jpg"
+        "name": "Alice T.",
+        "quote": "Absolutely blissful experience—my skin and spirit feel renewed every time!",
+        "image": "/images/testimonial-girl1.jpg"
       },
       {
-        "name": "James R.",
-        "quote": "They tiled our kitchen and fitted new skirting—top-class finish and very friendly throughout. Highly recommend!",
-        "image": "/images/testimonial2.jpg"
+        "name": "James L.",
+        "quote": "Best reflexology I’ve ever had—I walked out feeling lighter and more energized.",
+        "image": "/images/testimonial-man1.jpg"
       },
       {
-        "name": "Olivia K.",
-        "quote": "Wonderful service from start to finish. From the free quote to the final check, L.M.P made our home renovation stress-free.",
-        "image": "/images/testimonial3.jpg"
+        "name": "Sophie M.",
+        "quote": "Fantastic attention to detail and so relaxing. My go-to for all beauty needs!",
+        "image": "/images/testimonial-girl2.jpg"
       }
     ]
   },
@@ -115,31 +114,31 @@
     "title": "Frequently Asked Questions",
     "items": [
       {
-        "question": "Do you offer free quotes?",
-        "answer": "Yes. We visit your property, assess the work needed, and provide a detailed, no-obligation quote—always free of charge."
+        "question": "How do I prepare for my first reflexology session?",
+        "answer": "Wear loose, comfortable clothing and arrive a few minutes early to relax. No special preparation is needed."
       },
       {
-        "question": "What areas do you cover?",
-        "answer": "We serve Bedfordshire and the surrounding counties within a 30-mile radius. If you’re outside that area, just get in touch to check availability."
+        "question": "Is waxing suitable for sensitive skin?",
+        "answer": "Yes—we use gentle, hypoallergenic waxes and techniques to minimize irritation on all skin types."
       },
       {
-        "question": "Can you handle multiple small jobs?",
-        "answer": "Absolutely. We frequently take on smaller tasks—call-outs, fixes, or one-off jobs—and we’ll bundle them into a single visit to save you time."
+        "question": "Can I combine treatments?",
+        "answer": "Absolutely. Ask about our combo packages to pair massage with a facial or other services for great savings."
       },
       {
-        "question": "Are you fully insured?",
-        "answer": "Yes. All of our craftsmen and subcontractors carry full public liability insurance, so you have peace of mind on every job."
+        "question": "What is your cancellation policy?",
+        "answer": "We require 12 hours’ notice to avoid a 50% cancellation fee. Thank you for your understanding."
       }
     ]
   },
   "social": {
-    "facebook": "https://facebook.com/lmppropertyservices",
-    "instagram": "https://instagram.com/lmppropertyservices"
+    "facebook": "https://facebook.com/beautywithinkempston",
+    "instagram": "https://instagram.com/beautywithinkempston"
   },
   "contact": {
-    "title": "Request a Quote",
-    "description": "Call, message, or email us today to discuss your project. We’ll get back to you within 24 hours with a free estimate.",
-    "email": "contact@lmppropertyservices.co.uk",
-    "phone": "07359 663974"
+    "title": "Get in Touch",
+    "description": "Ready to book or have a question? Call, email or message us and we'll get back to you within 24 hours.",
+    "email": "hello@beautywithinkempston.co.uk",
+    "phone": "01234 567890"
   }
 }
